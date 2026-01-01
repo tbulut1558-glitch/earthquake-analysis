@@ -7,6 +7,7 @@ L’objectif principal est pédagogique : comprendre le cycle complet d’un pro
 
 ## Structure du projet
 
+`
 ├── data/
 │ └── database.csv
 │
@@ -26,6 +27,7 @@ L’objectif principal est pédagogique : comprendre le cycle complet d’un pro
 │
 ├── README.md
 └── requirements.txt
+`
 
 ## Préparation et analyse des données
 
